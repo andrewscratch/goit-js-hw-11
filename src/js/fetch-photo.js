@@ -4,7 +4,7 @@ export default class PixabayAPIService {
   constructor() {
     this.baseUrl =
       'https://pixabay.com/api/?image_type=photo&orientation=horizontal&safesearch=true';
-    this.key = '31235804-68392d2c82bd431c260e5e919';
+    this.key = '32013358-5f0ce484babf54b5e474c4ac5';
     this.query = '';
     this.page = 1;
     this.perPage = 40;
